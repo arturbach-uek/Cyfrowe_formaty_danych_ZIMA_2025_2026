@@ -1,0 +1,11 @@
+{
+  "brand": "Dell",
+  "model": "Inspiron 15",
+  "year": 2023,
+  "isTouchscreen": false,
+  "devices": ["touchpad", "webcam"],
+
+  "batteryLifeHours": 10,
+  "operatingSystem": "Windows 11",
+  "ports": ["USB-C", "HDMI", "Ethernet"]
+}

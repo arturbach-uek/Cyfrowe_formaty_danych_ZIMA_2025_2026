@@ -1,0 +1,16 @@
+{
+  "ticketNumber": "IC 1234567",
+  "passengerName": "Adam Małysz",
+  "departureStation": "Warszawa Centralna",
+  "arrivalStation": "Kraków Główny",
+  "departureDateTime": "2025-12-15T08:45:00+01:00",
+  "arrivalDateTime": "2025-12-15T12:30:00+01:00",
+  "trainNumber": "IC 3510",
+  "carriage": 3,
+  "seat": "12A",
+  "class": "2nd",
+  "pricePLN": 89.50,
+  "isElectronic": true,
+  "ticketType": "one-way",
+  "notes": null
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type="car" brand="Toyota" model="Corolla">
+        <color>Blue</color>
+        <fuel>Petrol</fuel>
+        <year>2020</year>
+        <seats>5</seats>
+    </transport>
+
+    <transport type="bicycle" brand="Giant" model="Escape 3">
+        <color>Red</color>
+        <gearCount>21</gearCount>
+        <year>2022</year>
+        <typeOfUse>Road</typeOfUse>
+    </transport>
+
+    <transport type="scooter" brand="Xiaomi" model="Mi Electric">
+        <color>Black</color>
+        <maxSpeed unit="km/h">25</maxSpeed>
+        <batteryCapacity unit="mAh">7800</batteryCapacity>
+        <year>2021</year>
+    </transport>
+</transports>
